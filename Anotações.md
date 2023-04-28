@@ -58,3 +58,6 @@ Colocar o servidor para rodar:
 ### Criar os controllers 
 
 ### Separar as views
+ - Criar pasta view / pages & partials
+ - Criar os arquivos mustaches em partials
+ - criar as pages mustaches 
